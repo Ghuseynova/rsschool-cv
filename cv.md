@@ -35,6 +35,11 @@ I studied them through books, free courses and google searches. At the moment, I
 5. [Kudago](https://ghuseynova.github.io/kudago/#/event)
 6. [Songbird](https://ghuseynova-songbird.netlify.app/)
 
+## Expereince
+
+1. Cakelabs(march 2019 - till now)
+2. US STUDIO(january 2019 - february 2019)
+
 ## Education
 
 1. Ganja State University, Computer Science(2015-2017)
